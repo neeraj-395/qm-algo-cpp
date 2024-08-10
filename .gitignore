@@ -31,3 +31,5 @@
 *.out
 *.app
 main
+old_minterm.cpp
+old_minterm.hpp
